@@ -20,4 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# Topic
+What is your average amount of sleep?
+
+あなたの平均睡眠時間を教えてください。
+
+# List of sleep time list
+example) 8 hours
