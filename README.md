@@ -19,4 +19,6 @@ HELP I NEED SOMEBDDY! HELP YES EVERYBADY! HELP YOU KNOW I NEED SOMEONE!  HELP!
 https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 
 # List of BirthPlace(Pleas add here)
-香川（KAGAWA）
+
+1. Osaka
+2. 香川（KAGAWA）
