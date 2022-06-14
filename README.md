@@ -8,6 +8,7 @@ Tell me your favorite movie.
 # List
 - The big blue
 - TENET
+- Whiplash  
 - Saw
 
 (add your favorite movie!))
