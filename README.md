@@ -23,5 +23,4 @@ Goal - I want contributors to help me list some favorite Music-Artist.
 
 
 # List of Music Artist.
-1.Madeon
-2.fripSide
+1.fripSide
