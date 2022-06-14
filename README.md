@@ -12,8 +12,7 @@ Tell me your favorite movie.
 - Saw
 - IT
 - Transformers: Revenge of the Fallen
-- Kokuhaku（告白）
-
+- The Dark Knight
 
 (add your favorite movie!))
 
