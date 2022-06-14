@@ -23,5 +23,5 @@ Goal - I want contributors to help me list some favorite Music-Artist.
 
 
 # List of Music Artist.
-1.fripSide
-2.MARY
+- fripSide
+- MARY
