@@ -22,3 +22,4 @@ ex) Starbucks, Doutor, Maruyama Coffee, Rokumei Coffee...
 
 # List of Coffee shop. 
 * 田代珈琲(tashiro coffee)
+* Seven-Eleven
