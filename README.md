@@ -12,6 +12,7 @@ Tell me your favorite movie.
 - Saw
 - IT
 - Transformers: Revenge of the Fallen
+- Spider-Man
 
 (add your favorite movie!))
 
