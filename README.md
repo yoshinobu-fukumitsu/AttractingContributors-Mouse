@@ -8,9 +8,10 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 <みんなに自分のことを知ってもらえる機会になるかも？>
 
 ### FOR EXAMPLE(BOTH COUNTRY and RIGION　is OK!!)
-  東アフリカ (Eastern Africa)　,北アメリカ (Northern America)<br>
-  東アジア (Eastern Asia),東南アジア (South-Eastern Asia)<br>
-  アメリカ (America)<br>,オーストラリア・ニュージーランド (Australia and New Zealand)<br>,,,etc
+  北アメリカ (Northern America)<br>,奈良(NARA)<br>,
+  東アジア (Eastern Asia),東南アジア (South-Eastern Asia)<br>,
+  オーストラリア・ニュージーランド (Australia and New Zealand)<br>
+  金星（Venus）,,,etc
 # Example.  
 HELP I NEED SOMEBDDY! HELP YES EVERYBADY! HELP YOU KNOW I NEED SOMEONE!  HELP!
 [https://github.com/yoriokahiroto/YourBirthPlace ]
