@@ -8,7 +8,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # Example.  
 HELP I NEED SOMEBDDY! HELP YES EVERYBADY! HELP YOU KNOW I NEED SOMEONE!  HELP!
-https://github.com/yoriokahiroto/YourBirthPlace 
+[https://github.com/yoriokahiroto/YourBirthPlace ]
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 
