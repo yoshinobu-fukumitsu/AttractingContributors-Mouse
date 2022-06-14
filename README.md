@@ -17,6 +17,7 @@ To complete the assignment, please do the following:
 
 # My Project (Coffee-collection)
 I want to know many delicious coffee shop!
+
 ex) Starbucks, Doutor, Maruyama Coffee, Rokumei Coffee...
 
 # List of Coffee shop. 
