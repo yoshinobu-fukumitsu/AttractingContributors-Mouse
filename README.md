@@ -6,7 +6,7 @@ Tell me your favorite movie.
 洋画でも邦画でもなんでも送ってください
 
 # List
-- The big blue
-
+- The big blue  
+- Whiplash  
 (add your favorite movie!))
 
