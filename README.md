@@ -28,3 +28,4 @@ Goal - I want contributors to help me list some favorite Music-Artist.
 - mafumafu
 - YuraYura Teikoku  
 - back number
+- きのこ帝国
