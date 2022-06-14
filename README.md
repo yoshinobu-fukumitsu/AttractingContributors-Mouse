@@ -1,8 +1,9 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-TELL ME YOUR BIRTHPLACE.<あなたの出身はどこですか？>//
-IT MIGHT BE THE OPPATUNITY TO INTRODUCE YOURSELF TO OTHERS.<みんなに自分のことを知ってもらえる機会になるかも？>　　//
+TELL ME YOUR BIRTHPLACE.<あなたの出身はどこですか？>
+
+IT MIGHT BE THE OPPATUNITY TO INTRODUCE YOURSELF TO OTHERS.<みんなに自分のことを知ってもらえる機会になるかも？>
 
 # Example.  
 HELP I NEED SOMEBDDY! HELP YES EVERYBADY! HELP YOU KNOW I NEED SOMEONE!  HELP!
