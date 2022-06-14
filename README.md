@@ -12,38 +12,38 @@ https://github.com/yoriokahiroto/YourBirthPlace
 https://github.com/NAIST-SE/AttractingContributors/discussions/468 (Discussion)
 
 # List of BirthPlace
-アフリカ州 (Africa)　　
-  東アフリカ (Eastern Africa)　　
-  中部アフリカ (Middle Africa)　　
-  北アフリカ (Northern Africa)　　
-  南部アフリカ (Southern Africa)　　
-  西アフリカ (Western Africa)　　
+アフリカ州 (Africa)　　<br>
+  東アフリカ (Eastern Africa)　　<br>
+  中部アフリカ (Middle Africa)　　<br>
+  北アフリカ (Northern Africa)　　<br>
+  南部アフリカ (Southern Africa)　　<br>
+  西アフリカ (Western Africa)　　<br>
   
-アメリカ州 (Americas)　　
-  ラテンアメリカ・カリブ海地域 (Latin America and the Caribbean)　　
-  カリブ海地域 (Caribbean)　　
-  中央アメリカ (Central America)　　
-  南アメリカ (South America)　　
-  北部アメリカ (Northern America)　　
+アメリカ州 (Americas)　　<br>
+  ラテンアメリカ・カリブ海地域 (Latin America and the Caribbean)　　<br>
+  カリブ海地域 (Caribbean)　　<br>
+  中央アメリカ (Central America)<br>　　
+  南アメリカ (South America)　　<br>
+  北部アメリカ (Northern America)　　<br>
   
-南極大陸　　
-南極　　
+南極大陸　　<br>
+南極　　<br>
 
-アジア州 (Asia)　　
-  中央アジア (Central Asia)　　
-  東アジア (Eastern Asia)　　
-  南アジア (Southern Asia)　　
-  東南アジア (South-Eastern Asia)　　
-  西アジア (Western Asia)　　
+アジア州 (Asia)　　<br>
+  中央アジア (Central Asia)　　<br>
+  東アジア (Eastern Asia)　　<br>
+  南アジア (Southern Asia)　　<br>
+  東南アジア (South-Eastern Asia)　　<br>
+  西アジア (Western Asia)　　<br>
   
-ヨーロッパ州 (Europe)　　
-東ヨーロッパ (Eastern Europe)　　
-北ヨーロッパ (Northern Europe)　　
-南ヨーロッパ (Southern Europe)　　
-西ヨーロッパ (Western Europe)　　
+ヨーロッパ州 (Europe)　　<br>
+東ヨーロッパ (Eastern Europe)<br>　　
+北ヨーロッパ (Northern Europe)　　<br>
+南ヨーロッパ (Southern Europe)　　<br>
+西ヨーロッパ (Western Europe)　　<br>
 
-オセアニア（大洋州） (Oceania)　　
-オーストラリア・ニュージーランド (Australia and New Zealand)　　
-メラネシア (Melanesia)　　
-ミクロネシア (Micronesia)　　
-ポリネシア (Polynesia)　　
+オセアニア（大洋州） (Oceania)　　<br>
+オーストラリア・ニュージーランド (Australia and New Zealand)　　<br>
+メラネシア (Melanesia)　　<br>
+ミクロネシア (Micronesia)　　<br>
+ポリネシア (Polynesia)　　<br>
