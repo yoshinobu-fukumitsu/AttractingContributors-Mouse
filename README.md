@@ -23,3 +23,9 @@ ex) Starbucks, Doutor, Maruyama Coffee, Rokumei Coffee...
 # List of Coffee shop. 
 * 田代珈琲(tashiro coffee)
 * 珈琲店 ISHIHARA (coffee ten ishihara , Kyoto)
+* Starbucks
+* コメダ珈琲店
+* Starbucks
+* Blue Bottle Coffee
+* Seven-Eleven
+* 珈琲美美(Cafe Bimi)
