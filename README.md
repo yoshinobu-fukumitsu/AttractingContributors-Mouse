@@ -22,4 +22,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 
 1. Osaka
 2. 香川（KAGAWA）
-3. Jakarta City (INDONESIA)
+3. 深圳 (Shen Zhen)
+4. Jakarta City (INDONESIA)
