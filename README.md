@@ -23,3 +23,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 1. Osaka
 2. 香川（KAGAWA）
 3. 愛知（Aichi）
+4. 深圳 (Shen Zhen)
+5. Jakarta City (INDONESIA)
+
