@@ -29,3 +29,4 @@ Goal - I want contributors to help me list some favorite Music-Artist.
 - YuraYura Teikoku  
 - back number
 - きのこ帝国
+- 緑黄色社会
