@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 4. 愛知（Aichi）
 5. 深圳 (Shen Zhen)
 6. Jakarta City (INDONESIA)
+7. 滋賀（Shiga）
