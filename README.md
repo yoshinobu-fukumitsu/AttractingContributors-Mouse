@@ -22,6 +22,7 @@ ex) Starbucks, Doutor, Maruyama Coffee, Rokumei Coffee...
 
 # List of Coffee shop. 
 * 田代珈琲(tashiro coffee)
+* Blue Bottle Coffee
 - Kaldi
 * 珈琲店 ISHIHARA (coffee ten ishihara , Kyoto)
 * Starbucks
