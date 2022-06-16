@@ -42,3 +42,4 @@ URLもどうぞ！
 - 兄者弟者
 - 素揚げチャンネル　https://www.youtube.com/channel/UC2fZuN9pICpg5yCAE0xA9AQ
 - ヒカキン
+- TenZ
