@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 7. 滋賀（Shiga）
 8. 奈良 (Nara)
 9. Pennsylvania, America
+10. 昆明 (Kun Ming) 
