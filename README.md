@@ -37,3 +37,4 @@ example) Logicool G703
 - Razer Viper mini
 - MX Master 3 MX2200sGR 
 - Razer Death Adder mini v2
+- MX ERGO
