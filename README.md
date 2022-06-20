@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/#469 (Discussion)
 6. Jakarta City (INDONESIA)
 7. 滋賀（Shiga）
 8. 奈良 (Nara)
+9. Pennsylvania, America
